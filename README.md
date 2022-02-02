@@ -4,7 +4,8 @@
 차박(차에서 숙박) 할 꿀 장소들을 공유하는 SNS입니다.
 다양한 차박 장소들을 사진, 지역과 글을 통해 공유할 수 있습니다👍.
 
-<br/>
+### [노션 정보](https://www.notion.so/6-046b9faabee34870a32e3a99d0dd9b29)
+### [시연 영상](https://www.youtube.com/watch?v=utpI3dTz0X0)
 <br/>
 
 ## Team Chabak Rule 🤝
@@ -22,7 +23,7 @@
 
 <br/>
 
-## Team Chabak Backend
+## Team Chabak FrontEnd
 - 최수인 => 로그인, 회원가입 기능 구현
 - 박재우 => 메인,상세 게시판,게시글삭제 기능 구현
 - 정민수 => 게시글 등록,수정 기능 구현
@@ -45,13 +46,6 @@
 - Styled Components
 - Hook API
 - axios
-
-<br/>
-
-### DevOps
-- AWS EC2 (Centos7)
-- AWS RDS (MySQL 8.0)
-- AWS S3
 
 <br/>
 
