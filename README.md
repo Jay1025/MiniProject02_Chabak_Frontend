@@ -7,7 +7,10 @@
 ### [노션 정보](https://www.notion.so/6-046b9faabee34870a32e3a99d0dd9b29)
 ### [시연 영상](https://www.youtube.com/watch?v=utpI3dTz0X0)
 <br/>
+## 진행기간
+2021년 12월 6일 ~ 2021년 12월 11일
 
+<br/>
 ## Team Chabak Rule 🤝
 ✔️ 프론트, 백엔드로 진행되는 첫 프로젝트이기 때문에 대화를 통해 문제점을 개선해 나갑니다.
 
